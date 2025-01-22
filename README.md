@@ -133,11 +133,11 @@ An interactive interface is provided using Gradio to allow users to analyze conv
   - Word cloud visualization.
 
 ## DASHBOARD
-![Dashboard Placeholder](.img/dashboard.png)
+![Dashboard Placeholder](img/dashboard.png)
 
 ## Visualizations
 ### Word Cloud 
-![Word Cloud](.img/wordcloud.png)
+![Word Cloud](img/wordcloud.png)
 
 ---
 
