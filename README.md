@@ -50,10 +50,7 @@ This project processes conversation data to extract meaningful insights. It uses
    ```
 
 2. **Install Dependencies**:
-   Ensure you have Python installed, then run:
-   ```bash
-   pip install -r requirements.txt
-   ```
+ 
 
    Example dependencies:
    ```
