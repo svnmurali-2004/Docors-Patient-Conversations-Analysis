@@ -42,8 +42,8 @@ This project processes conversation data to extract meaningful insights. It uses
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone [<repository_url>](https://github.com/svnmurali-2004/Docors-Patient-Conversations-Analysis)
+   cd Docors-Patient-Conversations-Analysis 
    ```
 
 2. **Install Dependencies:**
@@ -83,7 +83,7 @@ The project accepts a CSV file containing text data. Example file: `gpt-4.csv`.
 1. **Load the Data:**
    ```python
    import pandas as pd
-   df = pd.read_csv("/content/gpt-44.csv")
+   df = pd.read_csv("/content/gpt-4.csv")
    print(df.head())
    ```
 
@@ -114,10 +114,6 @@ The project accepts a CSV file containing text data. Example file: `gpt-4.csv`.
 - **Polarity:** Score indicating sentiment polarity (-1 to 1).
 - **Lexical Diversity:** Fraction of unique words in the text.
 - **Readability Score:** Flesch-Kincaid grade level.
-
-### Word Cloud
-A word cloud visualization of the input text.
-
 ---
 
 ## Interactive Gradio Interface
