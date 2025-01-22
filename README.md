@@ -98,6 +98,10 @@ The project accepts a CSV file containing text data. Example file: `gpt-4.csv`.
 ---
 
 ## Outputs
+![Example 1](img/ex1.png)
+![Example 1.1](img/ex1.1.png)
+![Example 1.2](img/ex1.2.png)
+![Example 1.3](img/ex1.3.png)
 
 ### Analysis Results
 
@@ -133,7 +137,7 @@ An interactive interface is provided using Gradio to allow users to analyze conv
   - Word cloud visualization.
 
 ## DASHBOARD
-![Dashboard Placeholder](img/dashboard.png)
+![Dashboard](img/dashboard.png)
 
 ## Visualizations
 ### Word Cloud 
